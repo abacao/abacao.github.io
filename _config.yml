@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               "Linux Devops"
-tagline:             'A Kind of life'
+tagline:             'A kind of life'
 description:         'All my ramblings mainly about Linux and Devops'
 url:                 https://abacao.github.io
 baseurl:             ''
@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              André Bação
-  url:               https://twitter.com/mdo
+  #url:               https://twitter.com/mdo
   email:             email@bacao.pt
 
 # Custom vars
