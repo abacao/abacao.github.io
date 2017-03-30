@@ -3,6 +3,8 @@ layout: post
 title: What is DevOps
 ---
 
+![](http://www.oneforce.com.br/wp-content/uploads/2016/03/omgdevops.png)
+
 There are several ways to look at the DevOps "brand" and even in my circle of
 collegues, there isn't a a absolute true.
 
