@@ -9,7 +9,7 @@ title:               "Linux Devops"
 tagline:             'a kind of life'
 description:         'All my ramblings mainly about Linux and Devops'
 url:                 https://abacao.github.io
-baseurl:             'https://github.com/abacao/abacao.github.io'
+baseurl:             ''
 paginate:            5
 
 # About/contact
