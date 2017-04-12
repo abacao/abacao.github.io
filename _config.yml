@@ -6,10 +6,10 @@ permalink:           pretty
 
 # Setup
 title:               "Linux Devops"
-tagline:             'aa kind of life'
+tagline:             'a kind of life'
 description:         'All my ramblings mainly about Linux and Devops'
 url:                 https://abacao.github.io
-baseurl:             ''
+baseurl:             'https://github.com/abacao/abacao.github.io'
 paginate:            5
 
 # About/contact
