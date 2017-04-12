@@ -1,4 +1,7 @@
-# How to post from Github with Markdown
+---
+layout: post
+title: How to post from Github with Markdown and Wordpress
+---
 
 I just found out that I am able to write my blog with markdown and use GitHub to store my articles.
 

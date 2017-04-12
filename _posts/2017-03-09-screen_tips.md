@@ -1,4 +1,7 @@
-# Screen util - Tips & why to use
+---
+layout: post
+title: Screen util - Tips & why to use
+---
 
 Ever happened during some server installation, you really need to pack up and leave?
 That happens to me almost every day and in the old days, I had to stop what I was doing and start all over again the next day.
