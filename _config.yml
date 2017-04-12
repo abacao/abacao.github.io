@@ -11,6 +11,7 @@ description:         'All my ramblings mainly about Linux and Devops'
 url:                 https://abacao.github.io
 baseurl:             'https://abacao.github.io'
 paginate:            5
+google_analytics:    'UA-97265376-1'
 
 # About/contact
 author:
