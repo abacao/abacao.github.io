@@ -4,27 +4,20 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This blog is from a IT guy. A normal guy that wants to learn more and more about technology.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I, André, am an experienced DevOps Engineer from an Ops and Administration background.
 
-There are currently two themes built on Poole:
+I am driven to the “make it happen” and think myself an excellent team player, always available to help and to facilitate my team goal. Have worked with several different projects from helpdesk to sysadmin, from “one man show” to managing a small team, from webhosting to fully automated systems for servers and desktop.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+As DevOps, I have already delivered solutions to world enterprise businesses such as Marionete, Vodafone IoT and Salesseek.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I'm also an open-source lover and a strong Linux advocated person, always trying find the best match between costs and revenues.
 
-## Setup
+Someone once said: _"André is a very devoted person within his profession and job. Above all, he's extremely committed to the goals that are yet to be achieved, either proposed by the company or proposed by him, exceptionally team-work oriented but nevertheless, capable of managing the work by himself, showing initiative actions and problem-solving solutions to any obstacle that might appear.
+His focus on security and best practices makes him a strong element in any team."_
 
-Some fun facts about the setup of this project include:
+Have fun with the blog!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+André Bação
