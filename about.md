@@ -15,8 +15,8 @@ As DevOps, I have already delivered solutions to world enterprise businesses suc
 
 I'm also an open-source lover and a strong Linux advocated person, always trying find the best match between costs and revenues.
 
-Someone once said: _"André is a very devoted person within his profession and job. Above all, he's extremely committed to the goals that are yet to be achieved, either proposed by the company or proposed by him, exceptionally team-work oriented but nevertheless, capable of managing the work by himself, showing initiative actions and problem-solving solutions to any obstacle that might appear.
-His focus on security and best practices makes him a strong element in any team."_
+Someone once said: _```"André is a very devoted person within his profession and job. Above all, he's extremely committed to the goals that are yet to be achieved, either proposed by the company or proposed by him, exceptionally team-work oriented but nevertheless, capable of managing the work by himself, showing initiative actions and problem-solving solutions to any obstacle that might appear.
+His focus on security and best practices makes him a strong element in any team."```_
 
 Have fun with the blog!
 
