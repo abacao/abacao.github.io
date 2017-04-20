@@ -9,7 +9,7 @@ As I was learning about snaps, I faced a issue that I was having in my current
 job. I have been using some tools from Hashicorp and Hashicorp don't use the
 "latest version" concept.
 
-Bu if you want to keep yourself updated, it's a problem because they are 
+Bu if you want to keep yourself updated, it's a problem because they are
 releasing new features every couple os days and sometimes can be hard to keep
 up with it, so I created my first snap.
 
@@ -26,4 +26,4 @@ You can install this snap from the Ubuntu Snap Store by using the command.
 
 With this you will get the latest packer version from the source. v1.1.0
 
-Have fun using as I'm having fun building it!
+Have fun!
