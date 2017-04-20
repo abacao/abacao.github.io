@@ -16,7 +16,7 @@ up with it, so I created my first snap.
 The same package that runs in Ubuntu and Fedora and it seems that will be the
 standard packaging system for the years to come.
 
-I introduce you ["packer-abacao"](https://uappexplorer.com/app/packer-abacao.abacao) snap.
+I introduce you ["packer-abacao"](https://uappexplorer.com/app/packer-abacao.abacao){:target="_blank"} snap.
 
 It is a job that needs to be polished but remember that is my first snap.
 
