@@ -21,7 +21,7 @@ Today, the current versions are:
 - Vagrant 1.9.5
 - Packer 1.0.0
 - Terraform 0.9.5
-- Vault 0.72
+- Vault 0.7.2
 - Consul 0.8.3
 - Nomad 0.5.6
 
