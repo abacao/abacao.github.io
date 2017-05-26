@@ -1,33 +1,28 @@
 ---
 layout: post
-title: Terraform 0.9.6 and SNAPs
+title: Releases from Hasicorp
 ---
 
-Another minor update on [Terraform](https://www.terraform.io/).
+![](https://cdn.shopify.com/s/files/1/1057/5054/t/1/assets/logo.png?991349473513323922)
 
-Some things to take a look:
+Hashicorp is a DevOps tools making company.
 
-  New Provider: ovh
-  New Resource: aws_default_subnet
-  New Resource: aws_default_vpc
-  New Resource: aws_default_vpc_dhcp_options
-  New Data Source: aws_db_snapshot
-  ...
+They have been doing some interesting things to the DevOps space such as:
 
-With this release, I wanted to update my snapcrafts.
-I have updated my packer snap and I have also created a terraform updated snap.
+- Vagrant: Creation and configuration of portable development environments
+- Packer: Create platform specific machine images for a single source
+- Terraform: Create, combine and manage infrastructure across providers
+- Vault: Centrally store, secure and control access to distributed secrets
+- Consul: Distrobuted highly available tool for service discovery, configuration and orchestration
+- Nomad: Cluster manager and scheduler to deploy applications across any infrastructure
 
-Both were build by the snapcraft.io servers that are linked to my github account.
+Today, the current versions are:
 
-```
-computer:~$ snap find abacao
-Name              Version  Developer  Notes  Summary
-terraform-abacao  0.9.6    abacao     -      build, change, and version infrastructure safely and efficiently
-packer-abacao     1.0.0    abacao     -      Packer - Build Automated Machine Images
-```
-
-You can find the changelog for Terraform  [here](https://github.com/hashicorp/terraform/blob/v0.9.6/CHANGELOG.md)
-
-New Terraform 0.9.6 [here](https://www.terraform.io/downloads.html)
+- Vagrant 1.9.5
+- Packer 1.0.0
+- Terraform 0.9.5
+- Vault 0.7.2
+- Consul 0.8.3
+- Nomad 0.5.6
 
 AB
