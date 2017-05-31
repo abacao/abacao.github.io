@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: My Packer Snap is again on the news!
