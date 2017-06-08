@@ -3,7 +3,7 @@ layout: post
 title: Snapcrafting
 ---
 
-I and my blog were mentioned by the team of Snapcraft in "[This week in snapcraft (WW21 2017)](https://forum.snapcraft.io/t/this-week-in-snapcraft-ww21-2017/795)"
+My blog and I were mentioned by the team of Snapcraft in "[This week in snapcraft (WW21 2017)](https://forum.snapcraft.io/t/this-week-in-snapcraft-ww21-2017/795)"
 
 In my tries, I have explored some ways of building snaps and Ubuntu is providing a new way to do it by launching [build.snapcraft.io](build.snapcraft.io)
 
