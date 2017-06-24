@@ -7,7 +7,7 @@ title: Snaps Updated
 
 Just built the new Terraform 0.9.8 snap and the new Packer 1.0.2.
 
-They are about to me released, keep snapping.
+They are about to be released, keep snapping.
 
 
 AB
