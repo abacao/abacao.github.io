@@ -11,7 +11,7 @@ I, André, am an experienced DevOps Engineer from an Ops and Administration back
 
 I am driven to the “make it happen” and think myself an excellent team player, always available to help and to facilitate my team goal. Have worked with several different projects from helpdesk to sysadmin, from “one man show” to managing a small team, from webhosting to fully automated systems for servers and desktop.
 
-As DevOps, I have already delivered solutions to world enterprise businesses such as Marionete, Vodafone IoT and Salesseek.
+As DevOps, I have already delivered solutions to world enterprise businesses such as Siemens, Vodafone IoT and Salesseek.
 
 I'm also an open-source lover and a strong Linux advocated person, always trying find the best match between costs and revenues.
 
