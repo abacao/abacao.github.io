@@ -16,9 +16,8 @@ If it works, you have to keep this instruction started in every bash, so:
 ```
 vim ~/.bashrc
 ```
-Add the next 2 lines to the bottom of the file.
+Add the next line to the bottom of the file.
 ```
-which aws_completer
 complete -C '/usr/local/bin/aws_completer' aws
 ```
 Save, quit, start a new session and see if it worked.
