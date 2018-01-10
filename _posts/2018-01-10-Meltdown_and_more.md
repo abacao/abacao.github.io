@@ -36,6 +36,6 @@ Some I found that where interesting are:
   AWS: [https://alas.aws.amazon.com/ALAS-2018-939.html](https://alas.aws.amazon.com/ALAS-2018-939.html) <br>
   Nextcloud: [https://nextcloud.com/blog/security-flaw-in-intel-cpus-breaks-isolation-between-cloud-containers/](https://nextcloud.com/blog/security-flaw-in-intel-cpus-breaks-isolation-between-cloud-containers/) <br>
 
-  Git repo used to show the status: https://github.com/abacao/spectre-meltdown-checker
+  Git repo used to show the status: [https://github.com/abacao/spectre-meltdown-checker](https://github.com/abacao/spectre-meltdown-checker)
 
 AB
