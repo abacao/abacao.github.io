@@ -31,10 +31,10 @@ Some I found that where interesting are:
   [https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))
   [https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
 
-  Ubutu: https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/SpectreAndMeltdown <br>
-  RedHat: https://access.redhat.com/security/cve/CVE-2017-5754 <br>
-  AWS: https://alas.aws.amazon.com/ALAS-2018-939.html <br>
-  Nextcloud: https://nextcloud.com/blog/security-flaw-in-intel-cpus-breaks-isolation-between-cloud-containers/ <br>
+  Ubutu: [https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/SpectreAndMeltdown](https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/SpectreAndMeltdown) <br>
+  RedHat: [https://access.redhat.com/security/cve/CVE-2017-5754](https://access.redhat.com/security/cve/CVE-2017-5754) <br>
+  AWS: [https://alas.aws.amazon.com/ALAS-2018-939.html](https://alas.aws.amazon.com/ALAS-2018-939.html) <br>
+  Nextcloud: [https://nextcloud.com/blog/security-flaw-in-intel-cpus-breaks-isolation-between-cloud-containers/](https://nextcloud.com/blog/security-flaw-in-intel-cpus-breaks-isolation-between-cloud-containers/) <br>
 
   Git repo used to show the status: https://github.com/abacao/spectre-meltdown-checker
 
