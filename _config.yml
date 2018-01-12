@@ -7,9 +7,9 @@ plugins:
   - jekyll-feed
 
 # Setup
-title:               "Linux Devops"
+title:               "Linux DevOps"
 tagline:             'a kind of life'
-description:         'All my ramblings mainly about Linux and Devops'
+description:         'All my ramblings mainly about Linux and DevOps'
 url:                 http://abacao.github.io
 baseurl:             'http://abacao.github.io'
 paginate:            5
