@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abacao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.bacao.pt
+  * I am abacao (https://keybase.io/abacao) on keybase.
+  * I have a public key ASA4P2xSmL1PM61ZN7AkvupKAL4kZOs2dB7vfWJe4GTvvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012064b60f4fd05cbab72eaf33cfe48ef4f40f654249a1799ec8581cf81a8718b05f0a",
+      "host": "keybase.io",
+      "kid": "0120383f6c5298bd4f33ad5937b024beea4a00be2464eb36741eef7d625ee064efbc0a",
+      "uid": "1ef365c83b014218e207350a55b38d19",
+      "username": "abacao"
+    },
+    "merkle_root": {
+      "ctime": 1523727812,
+      "hash": "ebbc730e47a047d7fb35e9bf59779478d003d1a8bfaeb5a22edbb9fa3f08c7b713cfc0365b5e40901d21cc3475957fc9ae4ec770950916fd4d49aed79b131125",
+      "hash_meta": "bb08f7ea495c7f446078c9d90a61b052839530fe97805dfbdec87a673c748002",
+      "seqno": 2390028
+    },
+    "service": {
+      "entropy": "VJhyWu4BABGQM4im0Wwl4CSA",
+      "hostname": "blog.bacao.pt",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1523727824,
+  "expire_in": 504576000,
+  "prev": "bc4a998c9a9146ed11d7ec7b02bc6d12329bfcd64c58de68a536ed6147271c33",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOD9sUpi9TzOtWTewJL7qSgC+JGTrNnQe731iXuBk77wKp3BheWxvYWTESpcCJ8QgvEqZjJqRRu0R1+x7ArxtEjKb/NZMWN5opTbtYUcnHDPEIP/uTFKRWkSe+viSEP9Y+nW3BOTyef7jWlVQ0JQgiKVNAgHCo3NpZ8RAgUxU+LVezdWmWwMNG0E9avZMnTzyqh56Mo+43dxIWlE8jcCWct9L7mWlhcRBkyjLlRfRRrvY7MV2yzgU+vsDBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBBSygqu8UjQH7MVYRlAM2nbj9hFUgalRlBSPx+usOYKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abacao
+
+==================================================================
