@@ -8,7 +8,7 @@ Had to made a change and move my very old Bitbucket repositories to my new Gogs 
 So, what to do if you want to keep the git history
 
 ```
-git remote set-url origin http://new_repository.git
+git remote set-url origin https://new_repository.git
 git push
 ```
 

@@ -3,7 +3,7 @@ layout: post
 title: A way to use Packer
 ---
 
-![](http://2.bp.blogspot.com/-LnYo0Et-Ut4/Vmvak5VXGOI/AAAAAAAAA6E/II7jNkgzQpk/s1600/aws_ansible_pacer.png)
+![](https://2.bp.blogspot.com/-LnYo0Et-Ut4/Vmvak5VXGOI/AAAAAAAAA6E/II7jNkgzQpk/s1600/aws_ansible_pacer.png)
 
 This is a talk given by Daviel Gomes from Talkdesk about Immutable Servers with Packer and Ansible.
 
