@@ -1660,6 +1660,6 @@ fi
 exit
 ```
 
-This post is a big long using due to the "safe keeping" of the script for later use in case of need but in the end, everything is working as expected. 
+This post is a big long due to the "safe keeping" of the script for later use in case of need but in the end, everything is working as expected. 
 
 AB
