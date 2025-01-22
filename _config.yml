@@ -10,7 +10,7 @@ plugins:
 title:               "Linux DevOps"
 tagline:             'Automate Everything'
 description:         'All my ramblings mainly about me, Linux and DevOps'
-url:                 https://abacao.github.io
+url:                 '//abacao.github.io'
 baseurl:             'https://abacao.github.io'
 paginate:            5
 google_analytics:    'UA-97265376-1'
