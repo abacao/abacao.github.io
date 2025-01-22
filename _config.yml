@@ -11,7 +11,7 @@ title:               "Linux DevOps"
 tagline:             'Automate Everything'
 description:         'All my ramblings mainly about me, Linux and DevOps'
 url:                 '//abacao.github.io'
-baseurl:             'https://abacao.github.io'
+baseurl:             '//abacao.github.io'
 paginate:            5
 google_analytics:    'UA-97265376-1'
 
