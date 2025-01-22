@@ -7,13 +7,14 @@ plugins:
   - jekyll-feed
 
 # Setup
-title:               "Linux DevOps"
-tagline:             'Automate Everything'
-description:         'All my ramblings mainly about me, Linux and DevOps'
+title:               "Automate Everything"
+description:         'All my ramblings mainly about myself, Linux, Security and DevOps'
 url:                 '//abacao.github.io'
-baseurl:             '//abacao.github.io'
+baseurl:             ''
 paginate:            5
 google_analytics:    'UA-97265376-1'
+
+markdown: redcarpet
 
 # About/contact
 author:
@@ -21,4 +22,4 @@ author:
   email:             email@bacao.pt
 
 # Custom vars
-version:             1.1.0
+version:             2.0

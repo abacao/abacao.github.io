@@ -8,7 +8,7 @@ Remembering the previous goal: having a NAS with more capacity (CPU, RAM and sto
 # Current status:
 * NAS has been solid without any issues
 * A UPS was attached to the NAS and is the NAS that is controlling the UPS over USB.
-* Version 7.1 of Synology was keeping behing.
+* Version 7.1 of Synology was keeping behind.
 * RAM continues to work 
 * NVME has been working as some VM/Container storage for testing as main resources are running on a dedicated Proxmox server.
 
