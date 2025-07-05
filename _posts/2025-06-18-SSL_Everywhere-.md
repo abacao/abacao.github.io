@@ -76,7 +76,8 @@ docker-compose up -d
 
 - Now you can create a Proxy Host for your Nextcloud.
 
-``` in Details:
+#### in Details:
+```
 Domain: nextcloud.sub.domain.com
 Scheme: https
 IP: Nextcloud IP
@@ -86,8 +87,9 @@ Block Comman Exploits: ON
 Websockets Support: ON
 Access: List: Public
 ```
-  
-``` in SSL:
+
+#### in SSL:
+```
 SSL Certificate: *.sub.domain.com,  sub.domain.com
 Force SSL: ON
 HTTP/2 Support: ON
