@@ -99,7 +99,7 @@ HSTS Subdomains: ON
 
 And you should be set.
 
-Another option is using Duck DNS. You can see the following video https://www.youtube.com/embed/DjKom4B4USo?si=2mTOOYuxy4Zwk7-l and tutorial: https://www.learntohomelab.com/homelabseries/EP26_nginxproxymanagerssl/
+Another option is using Duck DNS. You can see the following [video](https://www.youtube.com/embed/DjKom4B4USo?si=2mTOOYuxy4Zwk7-l) and [tutorial](https://www.learntohomelab.com/homelabseries/EP26_nginxproxymanagerssl/)
 
 
 Have fun using LetEncrypt SSL in your Nextcloud, routable inside but not exposed into the internet.
